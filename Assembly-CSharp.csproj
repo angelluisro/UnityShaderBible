@@ -63,7 +63,9 @@
   <ItemGroup>
     <None Include="Assets\Chapter1\3_2_4_USB_stencil\USB_stencil_ref.shader" />
     <None Include="Assets\Chapter1\3_2_4_USB_stencil\USB_stencil_value.shader" />
+    <None Include="Assets\Chapter1\4.0.9\USB_simple_color.shader" />
     <None Include="Assets\Chapter1\3_1_6_USB_render_type\USB_replacement_shader.shader" />
+    <None Include="Assets\Chapter1\4.0.9\USB_simple_color_URP.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
