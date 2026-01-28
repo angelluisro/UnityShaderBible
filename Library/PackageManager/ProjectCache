@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639020937836186365
-    m_Hash: 3667668953
+      ticks: 639051980574907474
+    m_Hash: 3266413902
   m_LockFileStatus:
     m_FilePath: C:/Users/angel/Documents/GitHub/UnityShaderBible/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639020937836368061
-    m_Hash: 4003876435
+      ticks: 639051980574922757
+    m_Hash: 1772981604
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -130,6 +130,7 @@ m_ResolvedPackages:
     - 2.10.1
     - 2.10.2
     - 2.11.2
+    - 2.11.3
     compatible:
     - 2.0.7
     - 2.1.0-preview.3
@@ -153,6 +154,7 @@ m_ResolvedPackages:
     - 2.10.1
     - 2.10.2
     - 2.11.2
+    - 2.11.3
     recommended: 2.0.7
     deprecated: []
   dependencies: []
@@ -566,6 +568,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.12
     - 3.2.0-pre.13
     - 3.2.0-pre.14
+    - 3.2.0-pre.15
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -587,6 +590,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.12
     - 3.2.0-pre.13
     - 3.2.0-pre.14
+    - 3.2.0-pre.15
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.9
@@ -3716,6 +3720,7 @@ m_ResolvedPackages:
     - 3.0.36
     - 3.0.37
     - 3.0.38
+    - 3.0.39
     compatible:
     - 3.0.24
     - 3.0.25
@@ -3728,7 +3733,8 @@ m_ResolvedPackages:
     - 3.0.36
     - 3.0.37
     - 3.0.38
-    recommended: 3.0.38
+    - 3.0.39
+    recommended: 3.0.39
     deprecated:
     - 3.0.37
   dependencies:
@@ -3939,10 +3945,14 @@ m_ResolvedPackages:
     - 1.2.2
     - 1.2.3
     - 1.2.4
+    - 1.3.0
+    - 1.3.1
     compatible:
     - 1.2.2
     - 1.2.3
     - 1.2.4
+    - 1.3.0
+    - 1.3.1
     recommended: 1.2.4
     deprecated: []
   dependencies: []
@@ -4171,11 +4181,13 @@ m_ResolvedPackages:
     - 1.2.5
     - 1.2.6
     - 1.2.7
+    - 1.3.0
     compatible:
     - 1.2.4
     - 1.2.5
     - 1.2.6
     - 1.2.7
+    - 1.3.0
     recommended: 1.2.7
     deprecated: []
   dependencies:
