@@ -61,12 +61,15 @@
     <Compile Include="Assets\Chapter1\3_1_6_USB_render_type\USBReplacementController.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Chapter1\4_1_Intrinsic_Functions\USB_function_CLAMP.shader" />
     <None Include="Assets\Chapter1\3_2_4_USB_stencil\USB_stencil_ref.shader" />
     <None Include="Assets\Chapter1\3_2_4_USB_stencil\USB_stencil_value.shader" />
     <None Include="Assets\Chapter1\4_0_6\USB_simple_color.shader" />
-    <None Include="Assets\Chapter1\4_0_9_Intrinsic_Functions\USB_function_ABS.shader" />
+    <None Include="Assets\Chapter1\4_1_Intrinsic_Functions\USB_function_ABS.shader" />
     <None Include="Assets\Chapter1\3_1_6_USB_render_type\USB_replacement_shader.shader" />
     <None Include="Assets\Chapter1\4_0_6\USB_simple_color_URP.shader" />
+    <None Include="Assets\Chapter1\4_0_9_Intrinsic_Functions\USB_function_CEIL.shader" />
+    <None Include="Assets\Chapter1\4_1_Intrinsic_Functions\USB_function_CEIL.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
